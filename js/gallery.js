@@ -142,4 +142,4 @@ gallery.addEventListener("click", (event) => {
    
   }
 });
-
+ulElement.innerHTML = galleryMarkup;
